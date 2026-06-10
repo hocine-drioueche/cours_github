@@ -7,3 +7,5 @@ Deuxiéme commit du cours pour apprendre la commande 'git pull'.
 Premeir commit dans la brache 'premiere_brache'
 
 Apprendre à faire `pull request`
+
+test de merge conflict 1
